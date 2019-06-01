@@ -1,4 +1,4 @@
-# NUS Orbital 2018 - Software Testing
+# NUS Orbital - Software Testing
 
 
 ### Things to Bring:
@@ -8,7 +8,7 @@
 ### Pre-requisites:
 
 1.  **Java JDK 8 and above.** 
-Not sure? Just download [JDK 10](http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html).
+Not sure? Just download [JDK 12](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html).
 
 2.  [**IntelliJ IDE (Community / Ultimate)**](https://www.jetbrains.com/idea/download).
 
@@ -16,7 +16,7 @@ Not sure? Just download [JDK 10](http://www.oracle.com/technetwork/java/javase/d
 
 ### Importing Project into IntelliJ:
 
-1. Download the source code [here](https://github.com/robinloh/NUS_Orbital_2018_Demo/releases/tag/V1.0).
+1. Download the source code [here](https://github.com/robinloh/NUS_Orbital_Demo/releases/tag/V1.0).
 2. Unzip the folder.
 3. Open IntelliJ and select `Import Project`.
 4. In the folder, there is a file named `pom.xml`. Select this file to import, not the folder!
