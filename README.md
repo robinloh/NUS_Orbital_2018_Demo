@@ -24,7 +24,8 @@ Not sure? Just download [JDK 12](https://www.oracle.com/technetwork/java/javase/
 6. Select the Java JDK you have downloaded earlier. 
 7. Click `Next` > `Next` > `Finish`
 8. If `Tip of the Day` popup appears, close it.
-9. This is when the Build Automation comes into play - IntelliJ downloads the necessary plugins and dependencies defined in `pom.xml`, without you downloading them manually.
+9. Notice the popup at the bottom-right hand corner of the screen. Click on the "Add as Maven project" link.
+10. This is when the Build Automation comes into play - IntelliJ downloads the necessary plugins and dependencies defined in `pom.xml`, without you downloading them manually.
 
 
 ### Final Checks:
