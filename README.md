@@ -12,7 +12,7 @@ Not sure? Just download [JDK 12](https://www.oracle.com/technetwork/java/javase/
 
 2.  [**IntelliJ IDE (Community / Ultimate)**](https://www.jetbrains.com/idea/download).
 
-3.  **Maven** - Download the binary archive [Non-Windows](http://www-us.apache.org/dist/maven/maven-3/3.5.3/binaries/apache-maven-3.5.3-bin.tar.gz) / [Windows](http://www-us.apache.org/dist/maven/maven-3/3.5.3/binaries/apache-maven-3.5.3-bin.zip) and follow instructions [here](https://maven.apache.org/install.html).
+3.  **Maven** - Follow instructions [here](https://maven.apache.org/install.html).
 
 ### Importing Project into IntelliJ:
 
